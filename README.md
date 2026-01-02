@@ -2,7 +2,7 @@
 
 
 🌟 Devinder Singh — Fullstack Web Developer
-Hi there! I’m Devinder, a curious and creative fullstack developer based in Finland, currently studying Fullstack Web Development at Chas Academy (Stockholm).
+Hi there! I’m Devinder, a curious and creative fullstack developer based in Sweden, currently studying Fullstack Web Development at Chas Academy (Stockholm).
 I love building interactive, expressive, and user‑friendly applications — especially those that combine React, TypeScript, and AI.  
 My work blends clean architecture, modern UI, and practical problem‑solving.
 ---
