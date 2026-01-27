@@ -12,7 +12,7 @@ I enjoy creating clean UIs, well‑structured APIs and learning tools that make 
 
 ### 🖥️ Backend
 - Fastify (Node.js)  
-- PostgreSQL  
+- PostgreSQL § MongoDB
 - Docker (containerization & local development)  
 - REST API design, validation & testing  
 - Bun runtime (learning & experimenting)
